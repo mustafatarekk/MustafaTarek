@@ -1,5 +1,5 @@
 # Hi, I'm Mustafa Tarek 👋
-Aspiring Data Analyst | Python, SQL, Tableau
+Aspiring Data Analyst | Python, SQL, Power BI
 
 ## About Me
 - Recent graduate with a passion for data-driven decision-making.
